@@ -71,6 +71,7 @@ blogton/
 |-- _redirects               # Netlify routing
 |-- _headers                 # Security headers
 |-- netlify.toml             # Netlify config
+|-- index.html               # Root home page entry for static deploys
 |-- .env.example             # Environment variable template
 `-- .gitignore               # Ignored private/local files
 ```
