@@ -6,6 +6,8 @@ A minimalist blogging platform. Read. Write. Connect.
 
 **Stack:** Vanilla HTML5, CSS3, JavaScript, Supabase, Netlify
 
+**License:** MIT
+
 ---
 
 ## Local Development
@@ -145,3 +147,11 @@ Included in version 1.0:
 - Issue screenshots and local debugging artifacts are ignored: `issues/`.
 - Browser Supabase values are served at runtime by `netlify/functions/config.js`.
 - Do not commit service-role keys, production database dumps, or unsanitized migration data.
+
+---
+
+## License
+
+Blogton is released under the MIT License.
+
+Copyright (c) 2026 Michael Pedemonte
